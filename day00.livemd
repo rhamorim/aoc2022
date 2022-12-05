@@ -1,0 +1,75 @@
+# Advent of Code 2022 - Day X
+
+```elixir
+Mix.install([
+  {:kino, "~> 0.7.0"}
+])
+```
+
+## Day X puzzle
+
+### Text for puzzle goes here
+
+Full description.
+
+## Puzzle Input
+
+```elixir
+puzzle_input = Kino.Input.textarea("Day X input")
+```
+
+## Part 1
+
+## Solving for the test
+
+```elixir
+defmodule Part1 do
+  def process(input) do
+    input
+  end
+end
+```
+
+```elixir
+input = """
+"""
+
+Part1.process(input)
+```
+
+## Applying our solution to the actual input
+
+```elixir
+part1_input = Kino.Input.read(puzzle_input)
+Part1.process(part1_input)
+```
+
+## Part 2
+
+### Description for part 2 goes here
+
+Full description
+
+## Solving for the test
+
+```elixir
+defmodule Part2 do
+  def process(input) do
+    input
+  end
+end
+```
+
+```elixir
+input = """
+"""
+
+Part2.process(input)
+```
+
+## Applying our solution to the actual input
+
+```elixir
+part1_input = Kino.Input.read(puzzle_input)
+Part2.process(part1_input)
+```
